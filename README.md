@@ -1,0 +1,2 @@
+# TextCNN
+CNN for classification
